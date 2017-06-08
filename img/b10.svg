@@ -1,0 +1,6 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="64" height="64" id="svg3354" version="1.1" inkscape:version="0.91 r13725" viewBox="0 0 64 64" sodipodi:docname="cerc1.svg">
+    <g transform="translate(64) scale(-1,1)">
+        <path style="fill:none;fill-opacity:1;stroke:#8f7a66;stroke-width:4;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path3430" sodipodi:type="arc" sodipodi:cx="0" sodipodi:cy="-64" sodipodi:rx="32" sodipodi:ry="32" sodipodi:start="0" sodipodi:end="1.5707963" sodipodi:open="true" d="M 32,-64 A 32,32 0 0 1 0,-32" transform="matrix(0,1,-1,0,0,0)" />
+        <path transform="matrix(0,-1,1,0,0,0)" d="M -32,0 A 32,32 0 0 1 -64,32" sodipodi:open="true" sodipodi:end="1.5707963" sodipodi:start="0" sodipodi:ry="32" sodipodi:rx="32" sodipodi:cy="0" sodipodi:cx="-64" sodipodi:type="arc" id="path4257" style="fill:none;fill-opacity:1;stroke:#8f7a66;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+</svg>
